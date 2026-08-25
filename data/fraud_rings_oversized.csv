@@ -1,0 +1,2 @@
+ring_id,n_accounts,n_transactions,n_fraud_transactions,fraud_rate_pct,sample_card_ids
+0,258,16099,2634,16.36,"16899, 13832, 7177, 15880, 15885, 15890, 15379, 11796"
